@@ -1,0 +1,82 @@
+Fake News Detection
+Progress Blog
+
+Ioan Rowlands (ior2@aber.ac.uk)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 5 (Feb 28th - Mar 6th)
+I have managed to convert the text to lowercase and worked out the possible issue with removing stopwords. 
+
+I have been able to remove a list of stopwords. Although there is an interesting discussion over if this should be done. 
+
+I have tokenized the words for the articles. This has been split into the fake and true news. 
+
+I have split the data into train and test sets.
+
+I have performed a Decision Tree Learner. This got an accuracy of 50% this is due to the fact I have been testing on a dataset of 7 items therefore I do not think this accuracy is relevant at all. But this was for proof of concept.
+
+In all of this I have learnt a lot about handling the DataFrame data structure used by the pandas library. 
+
+I have a meeting with Richard tomorrow. I have some practical work to show and proof of concept.  
+Week 4 (Feb 21st - Feb 27th)
+I created a flow chart of the plan based project we will complete with the key milestones of the project. 
+
+I justified my choice in the dataset. 
+
+Along with this I discussed the steps and methodology I will take in this project. This will be discussed with Richard. |Methodology looks good. Richard seems happy with it and the main thing is that there is interesting discussion. 
+
+This week's target is to :
+Complete pre-processing of the dataset. (began)
+get a classifier (Naive Bayes) working in spyder as proof of concept 
+Possibly get some graphs going. 
+
+I have worked out that the dataset is tab separated values. This means using Pandas read_table function rather than the read_csv I am able to successfully read the file into Python. 
+
+
+Week 3 (Feb 14th - Feb 20th)
+Had a crisis on the dataset - but now I think I will stick with it and have two papers where the database was used. 
+
+I could not find the papers so I emailed Richard - turns out you need to use google scholar. I found 2 good papers who have used the Kaggle dataset. 
+
+I read a lot of papers now. At the start of week 4 I will write out my method and the steps I will take to complete the project. 
+Week 2 (Feb 7 - Feb 14th)
+Decided on datasets to use
+
+Decided on project management strategy
+
+Decided on Algorithms to use
+
+Back up this with other work and reports from other research. 
+
+Working on the project outline
+
+Kaggle dataset has no pre-processing (good thing). 
+Kaggle is already split into test and train(also good). 
+
+Project outline is 75% completed (Wednesday)
+By tomorrow project outline should be completed and Friday morning a review of the document can happen to submit it and move it from ‘draft’ to ‘released’.
+
+
+
+
+Week 1 (Jan 31st - Feb 6th)
+Beginning project. 
+
+Not much work has been done this week. I have attended lectures and had my meeting with my project Supervisor. This meeting was productive in helping me better understand some of the areas of the project to focus on and other areas such as what is fake news? Not to dwell on this too much initially. 
+
+I have begun this blog which I will update throughout the project for my own reflection. I have started the project outline document due on the 11th of February. 
+
+This weekend I will set up some version control through GitHub where this can be a central storage point and version control.
+
+I have set up a GitHub repository to store all work throughout the project. 
