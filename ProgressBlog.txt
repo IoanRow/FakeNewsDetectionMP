@@ -29,6 +29,14 @@ I have performed a Decision Tree Learner. This got an accuracy of 50% this is du
 In all of this I have learnt a lot about handling the DataFrame data structure used by the pandas library. 
 
 I have a meeting with Richard tomorrow. I have some practical work to show and proof of concept.  
+
+Meeting notes: 
+What I have is good. No complaints on where I am and what I have done. 
+
+For next meeting:
+I need to be able to print some graphs as well as other metrics important when assesing the success of classification. 
+Do some work on word embedings (word2vec) - possibly run a decision tree with tfidf and word embedings. 
+
 Week 4 (Feb 21st - Feb 27th)
 I created a flow chart of the plan based project we will complete with the key milestones of the project. 
 
