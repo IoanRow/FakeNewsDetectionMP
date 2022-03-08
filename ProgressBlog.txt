@@ -1,17 +1,13 @@
 Fake News Detection
 Progress Blog
 
-Ioan Rowlands (ior2@aber.ac.uk)
+Ioan Rowlands (ior2@aber.ac.uk
 
 
+Week 6 (Mar 7th - Mar 14th)
+Looked into ELMO and BERT models. I have realised that my initial idea of comparing tfidf and word embeddings wont just be a different parameter to a classifier. This means my plan now is to compare the best results I have with tfidf with those from an ELMO model such as word2vec(gensim) and then a BURT model. 
 
-
-
-
-
-
-
-
+More classifiers with tfidf. 
 
 
 
@@ -32,10 +28,14 @@ I have a meeting with Richard tomorrow. I have some practical work to show and p
 
 Meeting notes: 
 What I have is good. No complaints on where I am and what I have done. 
+For next week I should be looking into a word embeddings implementation. 
 
+1st Teams call with Mark Padley
 For next meeting:
 I need to be able to print some graphs as well as other metrics important when assesing the success of classification. 
 Do some work on word embedings (word2vec) - possibly run a decision tree with tfidf and word embedings. 
+
+
 
 Week 4 (Feb 21st - Feb 27th)
 I created a flow chart of the plan based project we will complete with the key milestones of the project. 
@@ -52,12 +52,16 @@ Possibly get some graphs going.
 I have worked out that the dataset is tab separated values. This means using Pandas read_table function rather than the read_csv I am able to successfully read the file into Python. 
 
 
+
 Week 3 (Feb 14th - Feb 20th)
 Had a crisis on the dataset - but now I think I will stick with it and have two papers where the database was used. 
 
 I could not find the papers so I emailed Richard - turns out you need to use google scholar. I found 2 good papers who have used the Kaggle dataset. 
 
 I read a lot of papers now. At the start of week 4 I will write out my method and the steps I will take to complete the project. 
+
+
+
 Week 2 (Feb 7 - Feb 14th)
 Decided on datasets to use
 
@@ -74,7 +78,6 @@ Kaggle is already split into test and train(also good).
 
 Project outline is 75% completed (Wednesday)
 By tomorrow project outline should be completed and Friday morning a review of the document can happen to submit it and move it from ‘draft’ to ‘released’.
-
 
 
 
