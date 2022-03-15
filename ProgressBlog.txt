@@ -3,14 +3,25 @@ Progress Blog
 
 Ioan Rowlands (ior2@aber.ac.uk
 
+Week 7( Mar 14th - Mar 20th)
 
-Week 6 (Mar 7th - Mar 14th)
+Tues - I got the word embedding classification working!! - BIG - using code from a article Richard sent me this used heavily worked with a bit of adaptation for my dataset. 
+
+Mon - I have got a Glove word embeddings model kinda working! Big deal. Will update mode tomorrow hopefully when 
+
+Week 6 (Mar 7th - Mar 13th)
 Looked into ELMO and BERT models. I have realised that my initial idea of comparing tfidf and word embeddings wont just be a different parameter to a classifier. This means my plan now is to compare the best results I have with tfidf with those from an ELMO model such as word2vec(gensim) and then a BURT model. 
 
 More classifiers with tfidf:
 I have implemented Decision Tree classification, Naive Bayes and Artifical Neural Network. 
 Code now in repo. 
 
+Meeting with Richard: basically this was not a great week a lot of my effor has been misplaced (regarding word embeddings)
+To do: 
+Word embeddings (if possible)
+Preperation for mid project demonstration. 
+
+I have began creating a presentation for the demonstration - this includes a diagram of te dataset demosnstraring the balence of the data. As well as a word cloud of the data with the most common words apprearing largest. 
 
 
 Week 5 (Feb 28th - Mar 6th)
