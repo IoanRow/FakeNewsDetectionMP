@@ -3,8 +3,19 @@ Progress Blog
 
 Ioan Rowlands (ior2@aber.ac.uk
 
-Week 7( Mar 14th - Mar 20th)
+week 9(Mar 29th - April 5th)
+Last meeting before Ester - No planned meeting for the break but Richard is only off 1 of 3 weeks so I can contact him in this time. Meetings may be possible if needed. 
 
+I have under and over balenced the dataset this has produced much better results (up to 84% on the TF-IDF ANN classifer)
+
+I have got SMOTE working - I struggled on this as I did not realise this was done on the numbers the articles are converted into rather than the figures producd after tfidf and word embeddings. 
+
+
+
+week 8(Mar 21st - Mar 28th)
+Week of mid project demo (got 74% so good for me)
+
+Week 7( Mar 14th - Mar 20th)
 Tues - I got the word embedding classification working!! - BIG - using code from a article Richard sent me this used heavily worked with a bit of adaptation for my dataset. 
 
 Mon - I have got a Glove word embeddings model kinda working! Big deal. Will update mode tomorrow hopefully when 
