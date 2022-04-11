@@ -3,6 +3,8 @@ Progress Blog
 
 Ioan Rowlands (ior2@aber.ac.uk
 
+Got cross validation woring - not just using a method call i had to write it bit by bit in order to apply smote on the data. 
+
 week 9(Mar 29th - April 5th)
 Last meeting before Ester - No planned meeting for the break but Richard is only off 1 of 3 weeks so I can contact him in this time. Meetings may be possible if needed. 
 
