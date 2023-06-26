@@ -1,5 +1,5 @@
 # FakeNewsDetectionMP
-Author Ioan Rowlands (ior2)
+Author Ioan Rowlands 
 
 This Repository is for my final year project which is 'Fake news Detection'
 
